@@ -8,12 +8,13 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
   <artifactId>AnnotationDemo</artifactId>
-  <name>AnnotationDemo</name>
   <packaging>jar</packaging>
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
     </dependency>
   </dependencies>
+  
 </project>

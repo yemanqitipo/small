@@ -11,7 +11,7 @@
 	</parent>
 	<artifactId>WebDemo</artifactId>
 	<packaging>war</packaging>
-	<name>WebDemo</name>
+	
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -24,7 +24,9 @@
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
+	
 	<build>
 		<finalName>WebDemo</finalName>
 	</build>
+	
 </project>
